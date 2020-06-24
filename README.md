@@ -6,10 +6,10 @@ The aim of this project was to built a book recommender based on other users wit
 The dataset I used for the recommender consisted of the 10k most popular books on https://www.goodbooks.io/. The ratings were added from another source and are on a scale from 1 to 5. 
 
 ## Approach
-1)Data Inspection and Cleaning (see data_cleaning.ipynb) 
-2)Choosing a ML method based on available data and goal (item-based collaborative filtering, see: final presentation link)
-3)Creation of user-item-matrix and modelling (knn nearest neighbor algorithm) (see Modeling.ipynb)
-4)Optimization and testing of recommender (see Modeling.ipynb)
+1. Data Inspection and Cleaning (see data_cleaning.ipynb) 
+2. Choosing a ML method based on available data and goal (item-based collaborative filtering, see: final presentation link)
+3. Creation of user-item-matrix and modelling (knn nearest neighbor algorithm) (see Modeling.ipynb)
+4. Optimization and testing of recommender (see Modeling.ipynb)
 
 
 ## Links
