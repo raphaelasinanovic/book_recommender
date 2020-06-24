@@ -14,4 +14,5 @@ The dataset I used for the recommender consisted of the 10k most popular books o
 
 ## Links
 The dataset can be found here: https://www.kaggle.com/zygmunt/goodbooks-10k
+
 The final presentation can be found here: https://docs.google.com/presentation/d/1qs5_Nk6CJwCaTMaG06-m1SB0Iz_k0hPMzAq-iCaxZ-I/edit#slide=id.g85a15b113d_0_37
